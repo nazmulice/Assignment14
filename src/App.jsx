@@ -1,7 +1,7 @@
 import "./App.css";
-import Footer from "./component/Footer";
 import Header from "./component/Header";
 import Content from "./component/Content";
+import Footer from "./component/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 
